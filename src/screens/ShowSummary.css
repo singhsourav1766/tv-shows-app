@@ -1,0 +1,33 @@
+.container {
+    padding: 20px;
+    background-color: #d1e6fa;
+    text-align: center;
+}
+
+.button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+/* Style the link within the button */
+.button a {
+    color: #fff;
+    /* Change text color to white */
+    text-decoration: none;
+    /* Remove underline */
+}
+
+.button a:hover {
+    text-decoration: underline;
+    /* Add underline on hover */
+}

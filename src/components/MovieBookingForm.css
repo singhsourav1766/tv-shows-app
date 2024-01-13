@@ -1,0 +1,49 @@
+/* Add these styles to your existing CSS or create a new CSS file */
+
+.movie-booking-form-container {
+    text-align: center;
+}
+
+.movie-booking-form-title {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.movie-booking-form form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.movie-booking-form label {
+    width: 30%;
+    margin-bottom: 8px;
+    color: #555;
+}
+
+.movie-booking-form input {
+    width: 10%;
+    padding: 8px;
+    margin: 8px;
+    border: 1px solid #ddd;
+    border-radius: 5%;
+}
+
+.movie-booking-form button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.movie-booking-form button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.movie-booking-form button:hover:enabled {
+    background-color: #45a049;
+}
