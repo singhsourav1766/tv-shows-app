@@ -1,6 +1,12 @@
-<<<<<<< HEAD
 # tv-shows-app
-=======
+![Screenshot (584)](https://github.com/singhsourav1766/tv-shows-app/assets/121311381/e031fb61-c782-4020-bc66-ae22b370be19)
+![Screenshot (589)](https://github.com/singhsourav1766/tv-shows-app/assets/121311381/a0ea58be-1f65-4771-b406-64797c869b5d)
+![Screenshot (588)](https://github.com/singhsourav1766/tv-shows-app/assets/121311381/4df89204-b0ed-474b-89f8-e2de319308dd)
+![Screenshot (587)](https://github.com/singhsourav1766/tv-shows-app/assets/121311381/fdd90ee2-35ad-4884-93d3-8131fa39b286)
+![Screenshot (586)](https://github.com/singhsourav1766/tv-shows-app/assets/121311381/9cf6ead5-aa78-4d31-b9b6-2885d2bae6a9)
+![Screenshot (585)](https://github.com/singhsourav1766/tv-shows-app/assets/121311381/42b4d525-07b3-4880-86ae-c6a196511c5d)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,4 +77,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> master
